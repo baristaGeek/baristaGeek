@@ -6,4 +6,4 @@ Watermelon provides a VS Code Extension and a GitHub Application. For a given PR
 
 https://github.com/watermelontools/watermelon-extension
 
-![IMAGOTIPO FINAL 2-8 (1)](https://github.com/baristaGeek/baristaGeek/assets/8325094/7c220a84-f23e-4966-9c1a-5feaabc6a712)
+![IMAGOTIPO FINAL 1-8](https://github.com/baristaGeek/baristaGeek/assets/8325094/1cac120b-ffd7-41eb-ac93-c835b44f8757)
