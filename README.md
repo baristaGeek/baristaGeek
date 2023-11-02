@@ -1,8 +1,6 @@
 My name is Esteban. I am a software developer and entrepreneur. 
 
-I am currently the CEO & Co-founder at [Watermelon](https://www.watermelontools.com/) where we're building a passive documentation search engine, serving both our GitHub app and VS Code extension. 
-
-Our set of plug-ins index the most relevant information from sources such as GitHub, Slack, Linear, and Notion that are tied to a given Pull Request or file of code.  
+I am currently the CEO & Co-founder at [Watermelon](https://www.watermelontools.com/) where we're building an open source copilot for code review. 
 
 https://github.com/watermelontools
 
